@@ -33,6 +33,10 @@
 
 > 블루투스 모듈을 추가한 최종 아두이노 회로도
 
+## 발표 자료
+
+[SLIDE.pdf](https://github.com/icvlc/icvlc/blob/master/SLIDE.pdf)
+
 ## 시연 영상
 
 유튜브 영상 링크 (준비 중)
