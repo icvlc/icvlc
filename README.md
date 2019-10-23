@@ -1,6 +1,6 @@
 # 차량 간 정보 전달을 위한 Li-Fi 무선 통신
 
-> `ICVLC`는 **Inter Car Visible Light Communication**의 약자로, 차량 간 정보 전달을 위한 Li-Fi 무선 통신 프로젝트이다.
+> `ICVLC`는 **Inter-Car Visible Light Communication**의 약자로, 차량 간 정보 전달을 위한 Li-Fi 무선 통신 프로젝트이다.
 
 ## Li-Fi란?
 
@@ -16,7 +16,7 @@
 
 - 송신기 - [icvlc-emitter](https://github.com/icvlc/icvlc-emitter)
 - 수신기 - [icvlc-receiver](https://github.com/icvlc/icvlc-receiver)
-- 입력기 - [icvlc-desktop](https://github.com/icvlc/icvlc-desktop)
+- 입력기 - [icvlc-inputter](https://github.com/icvlc/icvlc-inputter)
 
 
 ## 일정
@@ -29,13 +29,9 @@
 
 ## Arduino Circuit Diagram
 
-![VLC Basic Diagram - circuito.io](https://user-images.githubusercontent.com/14247340/67360934-2c678680-f5a2-11e9-9c0d-18845fe25af1.png)
+![ICVLC Circuit Diagram - circuito.io](https://user-images.githubusercontent.com/14247340/67408051-62812680-f5f3-11e9-906c-4dd95658a2a1.png)
 
-> 프로젝트 초기에 제작한 아두이노 회로도
-
-![]()
-
-> 최종 아두이노 회로도 추가 (준비 중)
+> 블루투스 모듈을 추가한 최종 아두이노 회로도
 
 ## 시연 영상
 
@@ -48,12 +44,11 @@
 - 가로등으로부터 실시간 도로 데이터 수신
 - GPS를 보조하여 터널 내 차량의 정확한 위치 파악
 
-## People
+## Team
 
 - [Hanjun Kim - hallazzang](https://github.com/hallazzang)
 - [DONGGEON LIM - PW486](https://github.com/PW486)
 - [JiwoonWon - JWWon](https://github.com/JWWon)
-
 
 ## License
 
