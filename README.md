@@ -12,11 +12,18 @@
 
 최근 자동차의 전조등은 (아우디의 Matrix LED, BMW의 Adapated LED 등) LED로 변경되고 있는 추세이다. 자동차의 전조등과 후미등에 `Li-Fi` 무선 통신 장치를 설치할 수 있다면 근거리 차량 간 정보 전달이 가능할 것이다.
 
+## 구현 코드 저장소
+
+- 송신기 - [icvlc-emitter](https://github.com/icvlc/icvlc-emitter)
+- 수신기 - [icvlc-receiver](https://github.com/icvlc/icvlc-receiver)
+- 입력기 - [icvlc-desktop](https://github.com/icvlc/icvlc-desktop)
+
+
 ## 일정
 
 - **2019/10/21 (월)** - 프로젝트 계획
 - **2019/10/22 (화)** - 기본 아두이노 보드 제작, 통신 구현
-- **2019/10/23 (수)** - 통신 코드 개선, 아두이노 LCD 모듈 추가, 메시지 입력용 APP 구현, 문서화
+- **2019/10/23 (수)** - 통신 코드 개선, 아두이노 블루투스 모듈 추가, 메시지 입력용 APP 구현, 문서화
 - **2019/10/24 (목)** - 우드락 자동차 모형 제작, 테스트 및 데모 영상, 발표자료 준비
 - **2019/10/25 (금)** - 프로젝트 발표
 
@@ -24,7 +31,11 @@
 
 ![VLC Basic Diagram - circuito.io](https://user-images.githubusercontent.com/14247340/67360934-2c678680-f5a2-11e9-9c0d-18845fe25af1.png)
 
-최종 Circuit Diagram 추가 (준비 중)
+> 프로젝트 초기에 제작한 아두이노 회로도
+
+![]()
+
+> 최종 아두이노 회로도 추가 (준비 중)
 
 ## 시연 영상
 
@@ -35,3 +46,14 @@
 - 차량 간 양방향 통신으로 확장
 - 가로등으로부터 실시간 도로 데이터 수신
 - GPS를 보조하여 터널 내 차량의 정확한 위치 파악
+
+## People
+
+- [Hanjun Kim - hallazzang](https://github.com/hallazzang)
+- [DONGGEON LIM - PW486](https://github.com/PW486)
+- [JiwoonWon - JWWon](https://github.com/JWWon)
+
+
+## License
+
+[MIT](https://github.com/icvlc/icvlc/blob/master/LICENSE)
