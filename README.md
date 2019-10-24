@@ -41,9 +41,9 @@
 
 ## 시연 영상
 
-[![ICVLC Demo](https://via.placeholder.com/680x320)](https://www.youtube.com/watch?v=)
+[![ICVLC Demo](https://user-images.githubusercontent.com/14247340/67497798-768f5b80-f6b9-11e9-8e5a-a89852e0ae78.png)](https://youtu.be/hqhUYpjhNKY)
 <br>
-[YouTube](https://www.youtube.com/watch?v=)
+[YouTube](https://youtu.be/hqhUYpjhNKY)
 
 ## 향후 발전 방향
 
