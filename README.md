@@ -14,9 +14,11 @@
 
 ## 구현 코드 저장소
 
-- 송신기 - [icvlc-emitter](https://github.com/icvlc/icvlc-emitter)
-- 수신기 - [icvlc-receiver](https://github.com/icvlc/icvlc-receiver)
-- 입력기 - [icvlc-inputter](https://github.com/icvlc/icvlc-inputter)
+- [Docs](https://github.com/icvlc/icvlc) - 프로젝트 문서 저장소
+- [Sender](https://github.com/icvlc/sender) - STT(Speech to Text)를 이용하여 입력된 메시지를 블루투스로 전송하는 모바일 앱
+- [Emitter](https://github.com/icvlc/emitter) - 블루투스로 입력받은 메시지를 맨체스터 부호화하여 LED를 깜빡이는 아두이노 프로그램
+- [Receiver](https://github.com/icvlc/receiver) - 조도 센서를 이용하여 부호화된 메시지를 해석해 시리얼 포트로 출력하는 아두이노 프로그램
+- [Player](https://github.com/icvlc/player) - 시리얼 포트로 읽은 메시지를 TTS(Text to Speech)를 이용하여 출력하는 프로그램
 
 
 ## 일정
