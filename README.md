@@ -37,6 +37,7 @@
 
 ## 발표 자료
 
+[Google Presentation](https://docs.google.com/presentation/d/1LD5THOM3eHlWP_-HxqRH8DTI1Wg1_9yoYSmoF1bnLkc/edit#slide=id.g6f6e4732ca_2_17)
 [SLIDE.pdf](https://github.com/icvlc/icvlc/blob/master/SLIDE.pdf)
 
 ## 시연 영상
